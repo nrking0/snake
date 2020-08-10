@@ -1,0 +1,103 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SnakeRunner",
+            "request": "launch",
+            "mainClass": "SnakePackage.SnakeRunner",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SnakeRunner",
+            "request": "launch",
+            "mainClass": "Snake.SnakeRunner",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScoreBoard",
+            "request": "launch",
+            "mainClass": "Snake.ScoreBoard",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SnakePanel",
+            "request": "launch",
+            "mainClass": "Snake.SnakePanel",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Demo.Hello",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SnakePanel",
+            "request": "launch",
+            "mainClass": "SnakePanel",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AllAvailableFontsComboBox",
+            "request": "launch",
+            "mainClass": "AllAvailableFontsComboBox",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SnakeRunner",
+            "request": "launch",
+            "mainClass": "SnakeRunner",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VotePanel",
+            "request": "launch",
+            "mainClass": "VotePanel",
+            "projectName": "Project Template"
+        },
+        {
+            "type": "java",
+            "name": "Hello<Project Template>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Hello",
+            "projectName": "Project Template",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
